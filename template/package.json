@@ -1,6 +1,6 @@
 {
-  "name": "ii-admin-pro",
-  "version": "4.3.0",
+  "name": "<%= projectName %>",
+  "version": "<%= version %>",
   "private": true,
   "description": "An out-of-box UI solution for enterprise applications",
   "scripts": {
